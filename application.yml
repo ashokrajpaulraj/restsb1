@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to Cloud 10
+  greeting: My Local Git
   list:
-    values: apple, orange, bannan, watermelon
+    values: ashok, siva, senthil
