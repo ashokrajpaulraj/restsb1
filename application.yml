@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to Cloud
+  greeting: Welcome to Cloud 9
   list:
     values: apple, orange
